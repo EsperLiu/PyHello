@@ -1,6 +1,6 @@
 
 def check_version():
-    version = 1.0
+    version = 2.0
     print(f"current version is {version}")
     return version
 
